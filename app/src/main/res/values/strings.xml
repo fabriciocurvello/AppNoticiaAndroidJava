@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Noticias</string>
+    <string name="titulo">Tudo sobre edição de imagens</string>
+    <string name="data_noticia">20/05/2019</string>
+    <string name="texto_noticia">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vel nibh vitae orci sagittis pellentesque. Aenean arcu massa, blandit vel molestie id, fermentum quis justo. Pellentesque sit amet diam nec dolor finibus pretium quis nec orci. Vivamus at velit at lacus pulvinar vulputate vel fermentum purus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vel nibh vitae orci sagittis pellentesque. Aenean arcu massa, blandit vel molestie id, fermentum quis justo. Pellentesque sit amet diam nec dolor finibus pretium quis nec orci. Vivamus at velit at lacus pulvinar vulputate vel fermentum purus.</string>
+    <string name="autor">Fabricio Curvello</string>
+    <string name="bt_anterior">Anterior</string>
+    <string name="bt_proximo">Próximo</string>
 </resources>
