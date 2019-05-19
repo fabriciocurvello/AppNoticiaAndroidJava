@@ -10,12 +10,12 @@
         android:id="@+id/imageView"
         android:layout_width="0dp"
         android:layout_height="202dp"
+        android:contentDescription="TODO"
         android:scaleType="centerCrop"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/celular"
-        android:contentDescription="TODO" />
+        app:srcCompat="@drawable/carro" />
 
     <TextView
         android:id="@+id/textView"
